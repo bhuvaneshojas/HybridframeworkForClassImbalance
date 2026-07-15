@@ -10,7 +10,7 @@ Official implementation of the paper:
 > Generative Adversarial Network-Augmented Bidirectional LSTM-Transformer
 > Framework for Software Defect Prediction**
 >
-> Bhuvaneshwaran A, Deisy C — KGISL Institute of Technology / TCE, 2025
+> Bhuvaneshwaran A, Deisy C — Thiagarajar College of Engineering, 2025
 
 ---
 
