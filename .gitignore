@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+venv/
+*.log
+
+# Data (too large for git — download from PROMISE repo)
+data/raw/*.arff
+data/raw/*.csv
+
+# Results and model checkpoints
+results/
+*.pt
+*.pth
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
