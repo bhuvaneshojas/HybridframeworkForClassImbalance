@@ -181,5 +181,5 @@ python -m pytest tests/test_smoke.py -v
 
 ## Contact
 
-- Bhuvaneshwaran A — bhuvanesh0312@gmail.com (KGISL Institute of Technology)
+- Bhuvaneshwaran A — bhuvanesh0312@gmail.com (Thiagarajar College of Engineering)
 - Deisy C — cdcse@tce.edu (Thiagarajar College of Engineering)
